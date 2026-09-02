@@ -174,3 +174,34 @@ The project follows a **star schema** approach.
 │ city             │    │           │  │ product_name     │
 └──────────────────┘    └───────────┘  │ category         │
                                        └──────────────────┘
+
+
+---
+
+## 📈 Key Analysis Performed
+
+1. Sales Performance Analysis
+- Calculated total sales
+- Calculated average sales per event
+- Analyzed sales by product category
+- Identified top-performing products
+- Identified top-performing stores
+
+2. Promotion Performance Analysis
+- Compared quantity sold before and after promotions
+- Analyzed performance by promotion type
+- Calculated percentage increase in quantity sold
+- Evaluated the effectiveness of different promotional offers
+
+**Promotion types analyzed include:**
+
+BOGOF
+
+25% OFF
+
+33% OFF
+
+50% OFF
+
+500 Cashback
+
